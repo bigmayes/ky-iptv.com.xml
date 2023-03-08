@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tempest EPG Generator (made by Kvanc) -->
+<configuration>
+  <filename>ky-iptv.com</filename>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0</user-agent>
+  <logger>off</logger>
+  <retry>10</retry>
+  <time-out>10</time-out>
+  <timespan>1</timespan>
+  <proxy/>
+  <index-only>on</index-only>
+  <fusion>on</fusion>
+  <fusion-level>0</fusion-level>
+  <time-converter/>
+  <delay channel="" index="" detail=""/>
+  <channel-lister>on</channel-lister>
+  <inverter>off</inverter>
+  <inverter-filename/>
+  <inverter-path/>
+  <channel site="[ENC]directv.com_0" site_id="70|##|4063||551___10001%7CAmerica%2FNew_York" xmltv_id="HSNHD / Home Shopping Network 70-1 (HD)">HSNHD / Home Shopping Network 70-1 (HD)</channel>
+  <channel site="[ENC]directv.com_0" site_id="70|##|6111||127___10001%7CAmerica%2FNew_York" xmltv_id="QVCHD / QVC HD (70)">QVCHD / QVC HD (70)</channel>
+  <channel site="[ENC]directv.com_0" site_id="70|##|3849||127___10001%7CAmerica%2FNew_York" xmltv_id="QVC / QVC (70)">QVC / QVC (70)</channel>
+  <channel site="[ENC]directv.com_0" site_id="70|##|4062||551___10001%7CAmerica%2FNew_York" xmltv_id="HSN / Home Shopping Network 70-1">HSN / Home Shopping Network 70-1</channel>
+  <channel site="[ENC]directv.com_0" site_id="71|##|6505||0___10001%7CAmerica%2FNew_York" xmltv_id="NMX / News Mix 71">NMX / News Mix 71</channel>
+  <channel site="[ENC]directv.com_0" site_id="72|##|1977||709___10001%7CAmerica%2FNew_York" xmltv_id="JTV / Jewelry Television (72)">JTV / Jewelry Television (72)</channel>
+  <channel site="[ENC]directv.com_0" site_id="73|##|6209||173___10001%7CAmerica%2FNew_York" xmltv_id="SHOPHQ / SHOP HQ (73)">SHOPHQ / SHOP HQ (73)</channel>
+  <channel site="[ENC]directv.com_0" site_id="74|##|1978||0___10001%7CAmerica%2FNew_York" xmltv_id="SALE / SALE Network.">SALE / SALE Network.</channel>
+  <channel site="[ENC]directv.com_0" site_id="75|##|354||87___10001%7CAmerica%2FNew_York" xmltv_id="SHOPLC / Shop LC (75)">SHOPLC / Shop LC (75)</channel>
+  <channel site="[ENC]directv.com_0" site_id="76|##|4328||153___10001%7CAmerica%2FNew_York" xmltv_id="QVC2 / QVC2 (76)">QVC2 / QVC2 (76)</channel>
+  <channel site="[ENC]directv.com_0" site_id="77|##|553||0___10001%7CAmerica%2FNew_York" xmltv_id="NEW / NEW TV (77)">NEW / NEW TV (77)</channel>
+  <channel site="[ENC]directv.com_0" site_id="78|##|219||0___10001%7CAmerica%2FNew_York" xmltv_id="COOL / COOL Network 78">COOL / COOL Network 78</channel>
+  <channel site="[ENC]directv.com_0" site_id="79|##|5239||153___10001%7CAmerica%2FNew_York" xmltv_id="QVC2 / QVC2 (79)">QVC2 / QVC2 (79)</channel>
+  <channel site="[ENC]directv.com_0" site_id="80|##|348||0___10001%7CAmerica%2FNew_York" xmltv_id="GETIT / Get IT Infomercial 80">GETIT / Get IT Infomercial 80</channel>
+  <channel site="[ENC]directv.com_0" site_id="81|##|332||0___10001%7CAmerica%2FNew_York" xmltv_id="RENEW / RENEW TV 81">RENEW / RENEW TV 81</channel>
+  <channel site="[ENC]directv.com_0" site_id="82|##|1975||0___10001%7CAmerica%2FNew_York" xmltv_id="HOME / HOME TV (82)">HOME / HOME TV (82)</channel>
+  <channel site="[ENC]directv.com_0" site_id="83|##|358||0___10001%7CAmerica%2FNew_York" xmltv_id="WOW / WOW TV 83">WOW / WOW TV 83</channel>
+  <channel site="[ENC]directv.com_0" site_id="84|##|361||0___10001%7CAmerica%2FNew_York" xmltv_id="IDEA / IDEA Channel 84">IDEA / IDEA Channel 84</channel>
+  <channel site="[ENC]directv.com_0" site_id="85|##|1974||0___10001%7CAmerica%2FNew_York" xmltv_id="SAVE / Mercury Media Channel 85">SAVE / Mercury Media Channel 85</channel>
+  <channel site="[ENC]directv.com_0" site_id="86|##|6177||0___10001%7CAmerica%2FNew_York" xmltv_id="VALU / VALU 86">VALU / VALU 86</channel>
+  <channel site="[ENC]directv.com_0" site_id="87|##|315||0___10001%7CAmerica%2FNew_York" xmltv_id="DEALS / Infomercial Channel (87)">DEALS / Infomercial Channel (87)</channel>
+  <channel site="[ENC]directv.com_0" site_id="88|##|349||0___10001%7CAmerica%2FNew_York" xmltv_id="BEST / BEST Channel 88">BEST / BEST Channel 88</channel>
+  <channel site="[ENC]directv.com_0" site_id="89|##|390||0___10001%7CAmerica%2FNew_York" xmltv_id="VISION / VISION TV Channel 89">VISION / VISION TV Channel 89</channel>
+  <channel site="[ENC]directv.com_0" site_id="91|##|1311||0___10001%7CAmerica%2FNew_York" xmltv_id="FRESH / FRESH (91)">FRESH / FRESH (91)</channel>
+  <channel site="[ENC]directv.com_0" site_id="92|##|656||0___10001%7CAmerica%2FNew_York" xmltv_id="CRAVE / CRAVE (92)">CRAVE / CRAVE (92)</channel>
+  <channel site="[ENC]directv.com_0" site_id="126|##|126||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 126 HD">CINEHD / DTV Cinema 126 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="127|##|127||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 127 HD">CINEHD / DTV Cinema 127 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="128|##|128||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 128 HD">CINEHD / DTV Cinema 128 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="129|##|129||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 129 HD">CINEHD / DTV Cinema 129 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="130|##|130||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 130 HD">CINEHD / DTV Cinema 130 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="131|##|131||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 131 HD">CINEHD / DTV Cinema 131 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="132|##|132||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 132 HD">CINEHD / DTV Cinema 132 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="133|##|133||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 133 HD">CINEHD / DTV Cinema 133 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="134|##|134||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 134 HD">CINEHD / DTV Cinema 134 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="135|##|135||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 135 HD">CINEHD / DTV Cinema 135 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="136|##|136||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 136 HD">CINEHD / DTV Cinema 136 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="137|##|137||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 137 HD">CINEHD / DTV Cinema 137 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="138|##|138||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 138 HD">CINEHD / DTV Cinema 138 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="139|##|139||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 139 HD">CINEHD / DTV Cinema 139 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="140|##|140||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 140 HD">CINEHD / DTV Cinema 140 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="141|##|141||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 141 HD">CINEHD / DTV Cinema 141 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="142|##|142||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 142 HD">CINEHD / DTV Cinema 142 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="143|##|143||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 143 HD">CINEHD / DTV Cinema 143 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="144|##|144||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 144 HD">CINEHD / DTV Cinema 144 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="145|##|145||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 145 HD">CINEHD / DTV Cinema 145 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="146|##|146||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 146 HD">CINEHD / DTV Cinema 146 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="147|##|147||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 147 HD">CINEHD / DTV Cinema 147 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="148|##|148||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 148 HD">CINEHD / DTV Cinema 148 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="149|##|149||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 149 HD">CINEHD / DTV Cinema 149 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="150|##|150||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 150 HD">CINEHD / DTV Cinema 150 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="151|##|151||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 151 HD">CINEHD / DTV Cinema 151 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="152|##|152||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 152 HD">CINEHD / DTV Cinema 152 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="153|##|153||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 153 HD">CINEHD / DTV Cinema 153 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="154|##|154||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 154 HD">CINEHD / DTV Cinema 154 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="155|##|155||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 155 HD">CINEHD / DTV Cinema 155 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="156|##|8389||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 156 HD">CINEHD / DTV Cinema 156 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="159|##|159||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 159">CINEHD / DTV Cinema 159</channel>
+  <channel site="[ENC]directv.com_0" site_id="160|##|160||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 160">CINEHD / DTV Cinema 160</channel>
+  <channel site="[ENC]directv.com_0" site_id="161|##|161||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 161">CINEHD / DTV Cinema 161</channel>
+  <channel site="[ENC]directv.com_0" site_id="162|##|162||895___10001%7CAmerica%2FNew_York" xmltv_id="CINEHD / DTV Cinema 162">CINEHD / DTV Cinema 162</channel>
+  <channel site="[ENC]directv.com_0" site_id="163|##|163||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 163">CINE / DTV Cinema 163</channel>
+  <channel site="[ENC]directv.com_0" site_id="164|##|164||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 164">CINE / DTV Cinema 164</channel>
+  <channel site="[ENC]directv.com_0" site_id="165|##|165||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 165">CINE / DTV Cinema 165</channel>
+  <channel site="[ENC]directv.com_0" site_id="166|##|166||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 166">CINE / DTV Cinema 166</channel>
+  <channel site="[ENC]directv.com_0" site_id="167|##|167||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 167">CINE / DTV Cinema 167</channel>
+  <channel site="[ENC]directv.com_0" site_id="168|##|168||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 168">CINE / DTV Cinema 168</channel>
+  <channel site="[ENC]directv.com_0" site_id="169|##|169||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 169">CINE / DTV Cinema 169</channel>
+  <channel site="[ENC]directv.com_0" site_id="170|##|170||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 170">CINE / DTV Cinema 170</channel>
+  <channel site="[ENC]directv.com_0" site_id="171|##|171||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 171">CINE / DTV Cinema 171</channel>
+  <channel site="[ENC]directv.com_0" site_id="172|##|172||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 172">CINE / DTV Cinema 172</channel>
+  <channel site="[ENC]directv.com_0" site_id="173|##|173||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 173">CINE / DTV Cinema 173</channel>
+  <channel site="[ENC]directv.com_0" site_id="174|##|174||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 174">CINE / DTV Cinema 174</channel>
+  <channel site="[ENC]directv.com_0" site_id="175|##|175||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 175">CINE / DTV Cinema 175</channel>
+  <channel site="[ENC]directv.com_0" site_id="176|##|176||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 176">CINE / DTV Cinema 176</channel>
+  <channel site="[ENC]directv.com_0" site_id="177|##|177||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 177">CINE / DTV Cinema 177</channel>
+  <channel site="[ENC]directv.com_0" site_id="179|##|179||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 179">CINE / DTV Cinema 179</channel>
+  <channel site="[ENC]directv.com_0" site_id="180|##|180||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 180">CINE / DTV Cinema 180</channel>
+  <channel site="[ENC]directv.com_0" site_id="183|##|183||895___10001%7CAmerica%2FNew_York" xmltv_id="CINE / DTV Cinema 183">CINE / DTV Cinema 183</channel>
+  <channel site="[ENC]directv.com_0" site_id="199|##|8111||0___10001%7CAmerica%2FNew_York" xmltv_id="KIDSMIX / Kids Mix Channel">KIDSMIX / Kids Mix Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="200|##|436||0___10001%7CAmerica%2FNew_York" xmltv_id="NMX / News Mix">NMX / News Mix</channel>
+  <channel site="[ENC]directv.com_0" site_id="202|##|8249||727___10001%7CAmerica%2FNew_York" xmltv_id="CNNHD / CNN HD">CNNHD / CNN HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="202|##|202||7___10001%7CAmerica%2FNew_York" xmltv_id="CNN / CNN">CNN / CNN</channel>
+  <channel site="[ENC]directv.com_0" site_id="203|##|217||0___10001%7CAmerica%2FNew_York" xmltv_id="COOL / COOL Network 203">COOL / COOL Network 203</channel>
+  <channel site="[ENC]directv.com_0" site_id="204|##|6218||420___10001%7CAmerica%2FNew_York" xmltv_id="HLNHD / HLN HD">HLNHD / HLN HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="204|##|204||860___10001%7CAmerica%2FNew_York" xmltv_id="HLN / HLN">HLN / HLN</channel>
+  <channel site="[ENC]directv.com_0" site_id="205|##|5205||0___10001%7CAmerica%2FNew_York" xmltv_id="SMXHD / SPORTS MIX HD (205)">SMXHD / SPORTS MIX HD (205)</channel>
+  <channel site="[ENC]directv.com_0" site_id="206|##|1964||544___10001%7CAmerica%2FNew_York" xmltv_id="ESPNHD / ESPN HD">ESPNHD / ESPN HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="206|##|206||2___10001%7CAmerica%2FNew_York" xmltv_id="ESPN / ESPN">ESPN / ESPN</channel>
+  <channel site="[ENC]directv.com_0" site_id="207|##|8235||769___10001%7CAmerica%2FNew_York" xmltv_id="ESNHD / ESPNews HD">ESNHD / ESPNews HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="207|##|207||318___10001%7CAmerica%2FNew_York" xmltv_id="ESN / ESPNews">ESN / ESPNews</channel>
+  <channel site="[ENC]directv.com_0" site_id="208|##|2355||938___10001%7CAmerica%2FNew_York" xmltv_id="ESPNUHD / ESPNU HD">ESPNUHD / ESPNU HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="208|##|2614||602___10001%7CAmerica%2FNew_York" xmltv_id="ESPNU / ESPNU">ESPNU / ESPNU</channel>
+  <channel site="[ENC]directv.com_0" site_id="209|##|1965||616___10001%7CAmerica%2FNew_York" xmltv_id="ESPN2HD / ESPN2 HD">ESPN2HD / ESPN2 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="209|##|209||0___10001%7CAmerica%2FNew_York" xmltv_id="ESPN2 / ESPN2">ESPN2 / ESPN2</channel>
+  <channel site="[ENC]directv.com_0" site_id="212|##|442||342___10001%7CAmerica%2FNew_York" xmltv_id="NFLaHD / NFL Network Alternate HD">NFLaHD / NFL Network Alternate HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="212|##|8225||342___10001%7CAmerica%2FNew_York" xmltv_id="NFLHD / NFL Network HD">NFLHD / NFL Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="212|##|212||342___10001%7CAmerica%2FNew_York" xmltv_id="NFL / NFL Network">NFL / NFL Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="212|##|441||342___10001%7CAmerica%2FNew_York" xmltv_id="NFLa / NFL Network Alternate">NFLa / NFL Network Alternate</channel>
+  <channel site="[ENC]directv.com_0" site_id="213|##|3228||863___10001%7CAmerica%2FNew_York" xmltv_id="MLBNHD / MLB Network HD">MLBNHD / MLB Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="213|##|5214||863___10001%7CAmerica%2FNew_York" xmltv_id="MLBaHD / MLB Network Alt. 213-1 HD">MLBaHD / MLB Network Alt. 213-1 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="213|##|214||855___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Network Alt. 213-1">MLB / MLB Network Alt. 213-1</channel>
+  <channel site="[ENC]directv.com_0" site_id="213|##|3227||855___10001%7CAmerica%2FNew_York" xmltv_id="MLBN / MLB Network">MLBN / MLB Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="214|##|574||448___10001%7CAmerica%2FNew_York" xmltv_id="MAVTVHD / MAVTV HD">MAVTVHD / MAVTV HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="215|##|5509||739___10001%7CAmerica%2FNew_York" xmltv_id="NHLaHD / NHL Network Alternate HD">NHLaHD / NHL Network Alternate HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="215|##|8230||739___10001%7CAmerica%2FNew_York" xmltv_id="NHLHD / NHL Network HD">NHLHD / NHL Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="215|##|2468||480___10001%7CAmerica%2FNew_York" xmltv_id="NHLN / NHL Network">NHLN / NHL Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="215|##|5508||480___10001%7CAmerica%2FNew_York" xmltv_id="NHLa / NHL Network Alternate">NHLa / NHL Network Alternate</channel>
+  <channel site="[ENC]directv.com_0" site_id="216|##|8220||736___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA TV HD">NBAHD / NBA TV HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="216|##|601||31___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA TV">NBA / NBA TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="217|##|8240||772___10001%7CAmerica%2FNew_York" xmltv_id="TNNSHD / Tennis Channel HD">TNNSHD / Tennis Channel HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="217|##|3088||712___10001%7CAmerica%2FNew_York" xmltv_id="TNNS / Tennis Channel">TNNS / Tennis Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="218|##|5605||499___10001%7CAmerica%2FNew_York" xmltv_id="GolfHD / Golf Channel HD">GolfHD / Golf Channel HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="218|##|605||499___10001%7CAmerica%2FNew_York" xmltv_id="Golf / Golf Channel">Golf / Golf Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="219|##|8242||445___10001%7CAmerica%2FNew_York" xmltv_id="FS1HD / FOX Sports 1 HD">FS1HD / FOX Sports 1 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="219|##|607||445___10001%7CAmerica%2FNew_York" xmltv_id="FS1 / FOX Sports 1">FS1 / FOX Sports 1</channel>
+  <channel site="[ENC]directv.com_0" site_id="221|##|5613||285___10001%7CAmerica%2FNew_York" xmltv_id="CBSSNHD / CBS Sports Network HD">CBSSNHD / CBS Sports Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="221|##|2613||285___10001%7CAmerica%2FNew_York" xmltv_id="CBS SN / CBS Sports Network">CBS SN / CBS Sports Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="222|##|222||0___10001%7CAmerica%2FNew_York" xmltv_id="SAVE / Save 222 (Infomercial)">SAVE / Save 222 (Infomercial)</channel>
+  <channel site="[ENC]directv.com_0" site_id="223|##|239||0___10001%7CAmerica%2FNew_York" xmltv_id="CSHP / Celebrity Shopping TV">CSHP / Celebrity Shopping TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="224|##|340||0___10001%7CAmerica%2FNew_York" xmltv_id="AVC / AVC 224 (Infomercial)">AVC / AVC 224 (Infomercial)</channel>
+  <channel site="[ENC]directv.com_0" site_id="225|##|341||0___10001%7CAmerica%2FNew_York" xmltv_id="HOME / HOME TV (225)">HOME / HOME TV (225)</channel>
+  <channel site="[ENC]directv.com_0" site_id="226|##|226||87___10001%7CAmerica%2FNew_York" xmltv_id="SHOPLC / Shop LC">SHOPLC / Shop LC</channel>
+  <channel site="[ENC]directv.com_0" site_id="227|##|227||0___10001%7CAmerica%2FNew_York" xmltv_id="MALL / Paid Programming 227">MALL / Paid Programming 227</channel>
+  <channel site="[ENC]directv.com_0" site_id="228|##|228||149___10001%7CAmerica%2FNew_York" xmltv_id="GEM / GEM Shopping Network">GEM / GEM Shopping Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="229|##|8244||271___10001%7CAmerica%2FNew_York" xmltv_id="HGTVHD / HGTV HD">HGTVHD / HGTV HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="229|##|229||270___10001%7CAmerica%2FNew_York" xmltv_id="HGTV / HGTV">HGTV / HGTV</channel>
+  <channel site="[ENC]directv.com_0" site_id="230|##|8086||234___10001%7CAmerica%2FNew_York" xmltv_id="MAGNHD / Magnolia Network HD">MAGNHD / Magnolia Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="230|##|230||234___10001%7CAmerica%2FNew_York" xmltv_id="MAGN / Magnolia Network">MAGN / Magnolia Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="231|##|8278||403___10001%7CAmerica%2FNew_York" xmltv_id="foodHD / Food Network HD">foodHD / Food Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="231|##|231||403___10001%7CAmerica%2FNew_York" xmltv_id="Food / Food Network">Food / Food Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="232|##|6216||408___10001%7CAmerica%2FNew_York" xmltv_id="COOKHD / Cooking Channel HD">COOKHD / Cooking Channel HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="232|##|232||933___10001%7CAmerica%2FNew_York" xmltv_id="COOK / Cooking Channel">COOK / Cooking Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="233|##|8987||0___10001%7CAmerica%2FNew_York" xmltv_id="GSNHD / Game Show Network HD">GSNHD / Game Show Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="233|##|309||0___10001%7CAmerica%2FNew_York" xmltv_id="GSN / Game Show Network">GSN / Game Show Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="234|##|234||0___10001%7CAmerica%2FNew_York" xmltv_id="WOW / WOW TV 234">WOW / WOW TV 234</channel>
+  <channel site="[ENC]directv.com_0" site_id="235|##|484||185___10001%7CAmerica%2FNew_York" xmltv_id="TASTE / Tastemade">TASTE / Tastemade</channel>
+  <channel site="[ENC]directv.com_0" site_id="236|##|8179||332___10001%7CAmerica%2FNew_York" xmltv_id="E!HD / E! HD">E!HD / E! HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="236|##|236||26___10001%7CAmerica%2FNew_York" xmltv_id="E! / E!">E! / E!</channel>
+  <channel site="[ENC]directv.com_0" site_id="237|##|8258||579___10001%7CAmerica%2FNew_York" xmltv_id="BRVOHD / Bravo HD">BRVOHD / Bravo HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="237|##|273||70___10001%7CAmerica%2FNew_York" xmltv_id="BRVO / Bravo">BRVO / Bravo</channel>
+  <channel site="[ENC]directv.com_0" site_id="238|##|3507||406___10001%7CAmerica%2FNew_York" xmltv_id="REELZHD / ReelzChannel HD">REELZHD / ReelzChannel HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="238|##|225||406___10001%7CAmerica%2FNew_York" xmltv_id="REELZ / ReelzChannel">REELZ / ReelzChannel</channel>
+  <channel site="[ENC]directv.com_0" site_id="239|##|2057||25___10001%7CAmerica%2FNew_York" xmltv_id="SUNDHD / SundanceTV HD">SUNDHD / SundanceTV HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="239|##|549||485___10001%7CAmerica%2FNew_York" xmltv_id="SUND / SundanceTV">SUND / SundanceTV</channel>
+  <channel site="[ENC]directv.com_0" site_id="240|##|6133||551___10001%7CAmerica%2FNew_York" xmltv_id="HSNHD / Home Shopping Network HD">HSNHD / Home Shopping Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="240|##|240||551___10001%7CAmerica%2FNew_York" xmltv_id="HSN / Home Shopping Network">HSN / Home Shopping Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="241|##|8245||108___10001%7CAmerica%2FNew_York" xmltv_id="PARHD / Paramount Network HD">PARHD / Paramount Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="241|##|325||108___10001%7CAmerica%2FNew_York" xmltv_id="Par / Paramount Network">Par / Paramount Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="242|##|8273||753___10001%7CAmerica%2FNew_York" xmltv_id="USAHD / USA Network HD">USAHD / USA Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="242|##|242||518___10001%7CAmerica%2FNew_York" xmltv_id="USA / USA Network">USA / USA Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="243|##|243||0___10001%7CAmerica%2FNew_York" xmltv_id="XPLOR / XPLOR">XPLOR / XPLOR</channel>
+  <channel site="[ENC]directv.com_0" site_id="244|##|8268||905___10001%7CAmerica%2FNew_York" xmltv_id="SYFY HD / SYFY HD">SYFY HD / SYFY HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="244|##|244||904___10001%7CAmerica%2FNew_York" xmltv_id="SYFY / SYFY">SYFY / SYFY</channel>
+  <channel site="[ENC]directv.com_0" site_id="245|##|1966||656___10001%7CAmerica%2FNew_York" xmltv_id="TNTHD / TNT HD">TNTHD / TNT HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="245|##|2602||656___10001%7CAmerica%2FNew_York" xmltv_id="TNTWHD / TNT West HD">TNTWHD / TNT West HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="245|##|245||6___10001%7CAmerica%2FNew_York" xmltv_id="TNT / TNT">TNT / TNT</channel>
+  <channel site="[ENC]directv.com_0" site_id="246|##|1363||331___10001%7CAmerica%2FNew_York" xmltv_id="truTVHD / truTV HD">truTVHD / truTV HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="246|##|203||789___10001%7CAmerica%2FNew_York" xmltv_id="truTV / truTV">truTV / truTV</channel>
+  <channel site="[ENC]directv.com_0" site_id="247|##|2603||159___10001%7CAmerica%2FNew_York" xmltv_id="TBSWHD / TBS West HD">TBSWHD / TBS West HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="247|##|8254||317___10001%7CAmerica%2FNew_York" xmltv_id="TBSHD / TBS HD">TBSHD / TBS HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="247|##|247||317___10001%7CAmerica%2FNew_York" xmltv_id="TBS / TBS">TBS / TBS</channel>
+  <channel site="[ENC]directv.com_0" site_id="248|##|8208||493___10001%7CAmerica%2FNew_York" xmltv_id="FXHD / FX HD">FXHD / FX HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="248|##|248||871___10001%7CAmerica%2FNew_York" xmltv_id="FX / FX">FX / FX</channel>
+  <channel site="[ENC]directv.com_0" site_id="249|##|2598||157___10001%7CAmerica%2FNew_York" xmltv_id="COMWHD / Comedy Central West HD">COMWHD / Comedy Central West HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="249|##|3035||390___10001%7CAmerica%2FNew_York" xmltv_id="COMHD / Comedy Central HD">COMHD / Comedy Central HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="249|##|249||272___10001%7CAmerica%2FNew_York" xmltv_id="COM / Comedy Central">COM / Comedy Central</channel>
+  <channel site="[ENC]directv.com_0" site_id="250|##|3094||0___10001%7CAmerica%2FNew_York" xmltv_id="SECRET / SECRET TV (250)">SECRET / SECRET TV (250)</channel>
+  <channel site="[ENC]directv.com_0" site_id="251|##|275||823___10001%7CAmerica%2FNew_York" xmltv_id="OXGNHD / Oxygen HD">OXGNHD / Oxygen HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="251|##|251||823___10001%7CAmerica%2FNew_York" xmltv_id="OXGN / Oxygen">OXGN / Oxygen</channel>
+  <channel site="[ENC]directv.com_0" site_id="252|##|3780||449___10001%7CAmerica%2FNew_York" xmltv_id="LIFEHD / Lifetime HD">LIFEHD / Lifetime HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="252|##|252||452___10001%7CAmerica%2FNew_York" xmltv_id="LIFE / Lifetime">LIFE / Lifetime</channel>
+  <channel site="[ENC]directv.com_0" site_id="253|##|6217||136___10001%7CAmerica%2FNew_York" xmltv_id="LMNHD / LMN HD">LMNHD / LMN HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="253|##|253||320___10001%7CAmerica%2FNew_York" xmltv_id="LMN / LMN">LMN / LMN</channel>
+  <channel site="[ENC]directv.com_0" site_id="254|##|4217||313___10001%7CAmerica%2FNew_York" xmltv_id="AMCHD / AMC HD">AMCHD / AMC HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="254|##|254||69___10001%7CAmerica%2FNew_York" xmltv_id="amc / AMC">amc / AMC</channel>
+  <channel site="[ENC]directv.com_0" site_id="255|##|4190||0___10001%7CAmerica%2FNew_York" xmltv_id="XTRA / XTRA Network">XTRA / XTRA Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="256|##|4316||340___10001%7CAmerica%2FNew_York" xmltv_id="TCMHD / TCM HD">TCMHD / TCM HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="256|##|256||28___10001%7CAmerica%2FNew_York" xmltv_id="TCM / TCM">TCM / TCM</channel>
+  <channel site="[ENC]directv.com_0" site_id="258|##|310||444___10001%7CAmerica%2FNew_York" xmltv_id="FXMHD / FX Movie Channel HD">FXMHD / FX Movie Channel HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="258|##|258||444___10001%7CAmerica%2FNew_York" xmltv_id="FXM / FX Movie">FXM / FX Movie</channel>
+  <channel site="[ENC]directv.com_0" site_id="259|##|8138||494___10001%7CAmerica%2FNew_York" xmltv_id="FXXHD / FXX HD">FXXHD / FXX HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="259|##|2619||447___10001%7CAmerica%2FNew_York" xmltv_id="FXX / FXX">FXX / FXX</channel>
+  <channel site="[ENC]directv.com_0" site_id="260|##|2056||330___10001%7CAmerica%2FNew_York" xmltv_id="WeHD / WE tv HD">WeHD / WE tv HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="260|##|260||330___10001%7CAmerica%2FNew_York" xmltv_id="We / WE tv">We / WE tv</channel>
+  <channel site="[ENC]directv.com_0" site_id="261|##|368||5___10001%7CAmerica%2FNew_York" xmltv_id="DLIF / Discovery Life">DLIF / Discovery Life</channel>
+  <channel site="[ENC]directv.com_0" site_id="262|##|262||0___10001%7CAmerica%2FNew_York" xmltv_id="VISION / VISION TV Channel 262">VISION / VISION TV Channel 262</channel>
+  <channel site="[ENC]directv.com_0" site_id="262|##|8134||0___10001%7CAmerica%2FNew_York" xmltv_id="XPLOR / XPLOR (262-1)">XPLOR / XPLOR (262-1)</channel>
+  <channel site="[ENC]directv.com_0" site_id="263|##|347||0___10001%7CAmerica%2FNew_York" xmltv_id="GETIT / Get It Infomercial">GETIT / Get It Infomercial</channel>
+  <channel site="[ENC]directv.com_0" site_id="264|##|6053||344___10001%7CAmerica%2FNew_York" xmltv_id="BBCAHD / BBC America HD">BBCAHD / BBC America HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="264|##|264||189___10001%7CAmerica%2FNew_York" xmltv_id="BBCA / BBC America">BBCA / BBC America</channel>
+  <channel site="[ENC]directv.com_0" site_id="265|##|8223||825___10001%7CAmerica%2FNew_York" xmltv_id="A&amp;EHD / A&amp;E HD">A&amp;EHD / A&amp;E HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="265|##|265||826___10001%7CAmerica%2FNew_York" xmltv_id="A&amp;E / A&amp;E">A&amp;E / A&amp;E</channel>
+  <channel site="[ENC]directv.com_0" site_id="266|##|8396||0___10001%7CAmerica%2FNew_York" xmltv_id="FYIHD / FYI HD">FYIHD / FYI HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="266|##|266||0___10001%7CAmerica%2FNew_York" xmltv_id="FYI / FYI">FYI / FYI</channel>
+  <channel site="[ENC]directv.com_0" site_id="268|##|268||0___10001%7CAmerica%2FNew_York" xmltv_id="BEST / BEST Channel 268">BEST / BEST Channel 268</channel>
+  <channel site="[ENC]directv.com_0" site_id="269|##|8233||734___10001%7CAmerica%2FNew_York" xmltv_id="HISTHD / History HD">HISTHD / History HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="269|##|269||734___10001%7CAmerica%2FNew_York" xmltv_id="HIST / History">HIST / History</channel>
+  <channel site="[ENC]directv.com_0" site_id="270|##|261||0___10001%7CAmerica%2FNew_York" xmltv_id="IDEA / IDEA Channel 270">IDEA / IDEA Channel 270</channel>
+  <channel site="[ENC]directv.com_0" site_id="271|##|6215||254___10001%7CAmerica%2FNew_York" xmltv_id="VICEHD / VICE HD">VICEHD / VICE HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="271|##|271||254___10001%7CAmerica%2FNew_York" xmltv_id="VICE / VICE">VICE / VICE</channel>
+  <channel site="[ENC]directv.com_0" site_id="272|##|263||618___10001%7CAmerica%2FNew_York" xmltv_id="LOGO / Logo">LOGO / Logo</channel>
+  <channel site="[ENC]directv.com_0" site_id="273|##|572||4___10001%7CAmerica%2FNew_York" xmltv_id="POPHD / POP HD">POPHD / POP HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="273|##|224||4___10001%7CAmerica%2FNew_York" xmltv_id="POP / POP">POP / POP</channel>
+  <channel site="[ENC]directv.com_0" site_id="274|##|4638||711___10001%7CAmerica%2FNew_York" xmltv_id="OVTVHD / Ovation HD">OVTVHD / Ovation HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="274|##|274||711___10001%7CAmerica%2FNew_York" xmltv_id="OVTV / Ovation">OVTV / Ovation</channel>
+  <channel site="[ENC]directv.com_0" site_id="275|##|8033||127___10001%7CAmerica%2FNew_York" xmltv_id="QVCHD / QVC HD">QVCHD / QVC HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="275|##|317||127___10001%7CAmerica%2FNew_York" xmltv_id="QVC / QVC">QVC / QVC</channel>
+  <channel site="[ENC]directv.com_0" site_id="276|##|8215||738___10001%7CAmerica%2FNew_York" xmltv_id="NGCHD / National Geographic HD">NGCHD / National Geographic HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="276|##|276||235___10001%7CAmerica%2FNew_York" xmltv_id="NGC / National Geographic">NGC / National Geographic</channel>
+  <channel site="[ENC]directv.com_0" site_id="277|##|3529||0___10001%7CAmerica%2FNew_York" xmltv_id="TRAVHD / Travel Channel HD">TRAVHD / Travel Channel HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="277|##|233||0___10001%7CAmerica%2FNew_York" xmltv_id="TRAV / Travel Channel">TRAV / Travel Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="278|##|8238||728___10001%7CAmerica%2FNew_York" xmltv_id="DSCHD / Discovery HD">DSCHD / Discovery HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="278|##|278||10___10001%7CAmerica%2FNew_York" xmltv_id="DSC / Discovery">DSC / Discovery</channel>
+  <channel site="[ENC]directv.com_0" site_id="279|##|8851||432___10001%7CAmerica%2FNew_York" xmltv_id="OWNHD / OWN HD">OWNHD / OWN HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="279|##|3692||273___10001%7CAmerica%2FNew_York" xmltv_id="OWN / OWN">OWN / OWN</channel>
+  <channel site="[ENC]directv.com_0" site_id="279|##|8854||273___10001%7CAmerica%2FNew_York" xmltv_id="OWNW / OWN West">OWNW / OWN West</channel>
+  <channel site="[ENC]directv.com_0" site_id="280|##|8262||840___10001%7CAmerica%2FNew_York" xmltv_id="TLCHD / TLC HD">TLCHD / TLC HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="280|##|280||841___10001%7CAmerica%2FNew_York" xmltv_id="TLC / TLC">TLC / TLC</channel>
+  <channel site="[ENC]directv.com_0" site_id="281|##|3505||126___10001%7CAmerica%2FNew_York" xmltv_id="MTHD / MotorTrend HD">MTHD / MotorTrend HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="282|##|8205||808___10001%7CAmerica%2FNew_York" xmltv_id="APLHD / Animal Planet HD">APLHD / Animal Planet HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="282|##|282||807___10001%7CAmerica%2FNew_York" xmltv_id="APL / Animal Planet">APL / Animal Planet</channel>
+  <channel site="[ENC]directv.com_0" site_id="283|##|6054||934___10001%7CAmerica%2FNew_York" xmltv_id="NGWHD / Nat Geo Wild HD">NGWHD / Nat Geo Wild HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="283|##|3098||934___10001%7CAmerica%2FNew_York" xmltv_id="NGW / Nat Geo WILD">NGW / Nat Geo WILD</channel>
+  <channel site="[ENC]directv.com_0" site_id="284|##|8232||800___10001%7CAmerica%2FNew_York" xmltv_id="SCIHD / Science HD">SCIHD / Science HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="284|##|284||799___10001%7CAmerica%2FNew_York" xmltv_id="SCI / Science">SCI / Science</channel>
+  <channel site="[ENC]directv.com_0" site_id="285|##|6212||802___10001%7CAmerica%2FNew_York" xmltv_id="IDHD / Investigation Discovery HD">IDHD / Investigation Discovery HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="285|##|285||802___10001%7CAmerica%2FNew_York" xmltv_id="ID / Investigation Discovery">ID / Investigation Discovery</channel>
+  <channel site="[ENC]directv.com_0" site_id="286|##|4230||333___10001%7CAmerica%2FNew_York" xmltv_id="DESTHD / Destination America HD">DESTHD / Destination America HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="286|##|286||334___10001%7CAmerica%2FNew_York" xmltv_id="DEST / Destination America">DEST / Destination America</channel>
+  <channel site="[ENC]directv.com_0" site_id="287|##|288||0___10001%7CAmerica%2FNew_York" xmltv_id="AHCHD / American Heroes HD">AHCHD / American Heroes HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="287|##|287||0___10001%7CAmerica%2FNew_York" xmltv_id="AHCH / American Heroes Channel">AHCH / American Heroes Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="288|##|2363||47___10001%7CAmerica%2FNew_York" xmltv_id="PBS KIDS / PBS Kids">PBS KIDS / PBS Kids</channel>
+  <channel site="[ENC]directv.com_0" site_id="289|##|6055||345___10001%7CAmerica%2FNew_York" xmltv_id="DSJRHD / Disney Junior HD">DSJRHD / Disney Junior HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="289|##|289||341___10001%7CAmerica%2FNew_York" xmltv_id="DSJR / Disney Junior">DSJR / Disney Junior</channel>
+  <channel site="[ENC]directv.com_0" site_id="290|##|8398||764___10001%7CAmerica%2FNew_York" xmltv_id="DISeHD / Disney Channel HD">DISeHD / Disney Channel HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="290|##|290||1___10001%7CAmerica%2FNew_York" xmltv_id="DISe / Disney Channel (East)">DISe / Disney Channel (East)</channel>
+  <channel site="[ENC]directv.com_0" site_id="291|##|291||71___10001%7CAmerica%2FNew_York" xmltv_id="DISw / Disney Channel (West)">DISw / Disney Channel (West)</channel>
+  <channel site="[ENC]directv.com_0" site_id="292|##|8397||257___10001%7CAmerica%2FNew_York" xmltv_id="DXDHD / Disney XD HD">DXDHD / Disney XD HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="292|##|292||862___10001%7CAmerica%2FNew_York" xmltv_id="DXD / Disney XD">DXD / Disney XD</channel>
+  <channel site="[ENC]directv.com_0" site_id="293|##|293||673___10001%7CAmerica%2FNew_York" xmltv_id="BABY / BabyFirst">BABY / BabyFirst</channel>
+  <channel site="[ENC]directv.com_0" site_id="294|##|283||507___10001%7CAmerica%2FNew_York" xmltv_id="DFCHD / Discovery Family Channel HD">DFCHD / Discovery Family Channel HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="294|##|294||507___10001%7CAmerica%2FNew_York" xmltv_id="DFCH / Discovery Family Channel">DFCH / Discovery Family Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="295|##|3501||150___10001%7CAmerica%2FNew_York" xmltv_id="UKIDSH / Universal Kids HD">UKIDSH / Universal Kids HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="295|##|295||150___10001%7CAmerica%2FNew_York" xmltv_id="UKIDS / Universal Kids">UKIDS / Universal Kids</channel>
+  <channel site="[ENC]directv.com_0" site_id="296|##|8255||724___10001%7CAmerica%2FNew_York" xmltv_id="CNeHD / Cartoon Network HD">CNeHD / Cartoon Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="296|##|296||15___10001%7CAmerica%2FNew_York" xmltv_id="CNe / Cartoon Network">CNe / Cartoon Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="297|##|8193||15___10001%7CAmerica%2FNew_York" xmltv_id="CNw / Cartoon Network West">CNw / Cartoon Network West</channel>
+  <channel site="[ENC]directv.com_0" site_id="298|##|297||217___10001%7CAmerica%2FNew_York" xmltv_id="Boom / Boomerang">Boom / Boomerang</channel>
+  <channel site="[ENC]directv.com_0" site_id="299|##|8274||759___10001%7CAmerica%2FNew_York" xmltv_id="NIKeHD / Nickelodeon East HD">NIKeHD / Nickelodeon East HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="299|##|299||30___10001%7CAmerica%2FNew_York" xmltv_id="NIKe / Nickelodeon East">NIKe / Nickelodeon East</channel>
+  <channel site="[ENC]directv.com_0" site_id="300|##|300||30___10001%7CAmerica%2FNew_York" xmltv_id="NIKw / Nickelodeon West">NIKw / Nickelodeon West</channel>
+  <channel site="[ENC]directv.com_0" site_id="301|##|3621||911___10001%7CAmerica%2FNew_York" xmltv_id="NKJRHD / Nick Jr. HD">NKJRHD / Nick Jr. HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="301|##|298||911___10001%7CAmerica%2FNew_York" xmltv_id="NKJR / Nick Jr.">NKJR / Nick Jr.</channel>
+  <channel site="[ENC]directv.com_0" site_id="302|##|302||557___10001%7CAmerica%2FNew_York" xmltv_id="NKTN / Nicktoons">NKTN / Nicktoons</channel>
+  <channel site="[ENC]directv.com_0" site_id="303|##|3504||912___10001%7CAmerica%2FNew_York" xmltv_id="TNCK / TeenNick">TNCK / TeenNick</channel>
+  <channel site="[ENC]directv.com_0" site_id="304|##|6213||419___10001%7CAmerica%2FNew_York" xmltv_id="TVLDHD / TV Land HD">TVLDHD / TV Land HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="304|##|301||351___10001%7CAmerica%2FNew_York" xmltv_id="TVLD / TV Land">TVLD / TV Land</channel>
+  <channel site="[ENC]directv.com_0" site_id="305|##|6056||423___10001%7CAmerica%2FNew_York" xmltv_id="IONEHD / ION Television East HD">IONEHD / ION Television East HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="306|##|8442||423___10001%7CAmerica%2FNew_York" xmltv_id="ION W / ION Television West">ION W / ION Television West</channel>
+  <channel site="[ENC]directv.com_0" site_id="307|##|3528||554___10001%7CAmerica%2FNew_York" xmltv_id="NwsNnHD / NewsNation HD">NwsNnHD / NewsNation HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="307|##|307||554___10001%7CAmerica%2FNew_York" xmltv_id="NwsNn / NewsNation">NwsNn / NewsNation</channel>
+  <channel site="[ENC]directv.com_0" site_id="308|##|343||0___10001%7CAmerica%2FNew_York" xmltv_id="CRAVE / CRAVE">CRAVE / CRAVE</channel>
+  <channel site="[ENC]directv.com_0" site_id="309|##|328||0___10001%7CAmerica%2FNew_York" xmltv_id="SALE / SALE Network">SALE / SALE Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="310|##|4069||551___10001%7CAmerica%2FNew_York" xmltv_id="HSN2 / HSN2">HSN2 / HSN2</channel>
+  <channel site="[ENC]directv.com_0" site_id="311|##|4211||43___10001%7CAmerica%2FNew_York" xmltv_id="FRFMHD / Freeform HD">FRFMHD / Freeform HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="311|##|311||43___10001%7CAmerica%2FNew_York" xmltv_id="FRFM / Freeform">FRFM / Freeform</channel>
+  <channel site="[ENC]directv.com_0" site_id="312|##|3771||927___10001%7CAmerica%2FNew_York" xmltv_id="HALLHD / Hallmark Channel HD">HALLHD / Hallmark Channel HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="312|##|312||242___10001%7CAmerica%2FNew_York" xmltv_id="HALL / Hallmark">HALL / Hallmark</channel>
+  <channel site="[ENC]directv.com_0" site_id="313|##|367||709___10001%7CAmerica%2FNew_York" xmltv_id="JTV / Jewelry Television">JTV / Jewelry Television</channel>
+  <channel site="[ENC]directv.com_0" site_id="314|##|8067||0___10001%7CAmerica%2FNew_York" xmltv_id="VALU / VALU">VALU / VALU</channel>
+  <channel site="[ENC]directv.com_0" site_id="315|##|4060||153___10001%7CAmerica%2FNew_York" xmltv_id="QVC2 / QVC2">QVC2 / QVC2</channel>
+  <channel site="[ENC]directv.com_0" site_id="316|##|1371||173___10001%7CAmerica%2FNew_York" xmltv_id="SHOPHQ / Shop HQ">SHOPHQ / Shop HQ</channel>
+  <channel site="[ENC]directv.com_0" site_id="317|##|8019||127___10001%7CAmerica%2FNew_York" xmltv_id="QVCHD / QVC HD (317)">QVCHD / QVC HD (317)</channel>
+  <channel site="[ENC]directv.com_0" site_id="317|##|345||127___10001%7CAmerica%2FNew_York" xmltv_id="QVC / QVC Channel 317">QVC / QVC Channel 317</channel>
+  <channel site="[ENC]directv.com_0" site_id="318|##|277||154___10001%7CAmerica%2FNew_York" xmltv_id="QVC3 / QVC3">QVC3 / QVC3</channel>
+  <channel site="[ENC]directv.com_0" site_id="319|##|319||0___10001%7CAmerica%2FNew_York" xmltv_id="NEW / NEW TV (319)">NEW / NEW TV (319)</channel>
+  <channel site="[ENC]directv.com_0" site_id="320|##|323||115___10001%7CAmerica%2FNew_York" xmltv_id="SCNTV / Scientology Network">SCNTV / Scientology Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="321|##|8509||409___10001%7CAmerica%2FNew_York" xmltv_id="1n1 / 1+1 International">1n1 / 1+1 International</channel>
+  <channel site="[ENC]directv.com_0" site_id="322|##|517||0___10001%7CAmerica%2FNew_York" xmltv_id="NHKWJ / NHK World News">NHKWJ / NHK World News</channel>
+  <channel site="[ENC]directv.com_0" site_id="323|##|110||0___10001%7CAmerica%2FNew_York" xmltv_id="GO4IT / Go4IT">GO4IT / Go4IT</channel>
+  <channel site="[ENC]directv.com_0" site_id="323|##|1983||106___10001%7CAmerica%2FNew_York" xmltv_id="FETV / Family Entertainment Television">FETV / Family Entertainment Television</channel>
+  <channel site="[ENC]directv.com_0" site_id="324|##|324||0___10001%7CAmerica%2FNew_York" xmltv_id="RENEW / RENEW TV">RENEW / RENEW TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="324|##|3095||0___10001%7CAmerica%2FNew_York" xmltv_id="SECRET / SECRET TV">SECRET / SECRET TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="325|##|1307||0___10001%7CAmerica%2FNew_York" xmltv_id="FRESH / FRESH">FRESH / FRESH</channel>
+  <channel site="[ENC]directv.com_0" site_id="325|##|8075||892___10001%7CAmerica%2FNew_York" xmltv_id="JLTV / Jewish Life TV">JLTV / Jewish Life TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="326|##|573||580___10001%7CAmerica%2FNew_York" xmltv_id="GACFHD / GAC Family HD">GACFHD / GAC Family HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="326|##|326||580___10001%7CAmerica%2FNew_York" xmltv_id="GACF / GAC Family">GACF / GAC Family</channel>
+  <channel site="[ENC]directv.com_0" site_id="327|##|8395||756___10001%7CAmerica%2FNew_York" xmltv_id="CMTHD / CMT HD">CMTHD / CMT HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="327|##|327||0___10001%7CAmerica%2FNew_York" xmltv_id="CMT / CMT">CMT / CMT</channel>
+  <channel site="[ENC]directv.com_0" site_id="328|##|1512||601___10001%7CAmerica%2FNew_York" xmltv_id="TV1HD / TV One HD">TV1HD / TV One HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="329|##|1917||492___10001%7CAmerica%2FNew_York" xmltv_id="BETHD / BET HD">BETHD / BET HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="329|##|2599||492___10001%7CAmerica%2FNew_York" xmltv_id="BETWHD / BET West HD">BETWHD / BET West HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="329|##|329||101___10001%7CAmerica%2FNew_York" xmltv_id="BET / BET">BET / BET</channel>
+  <channel site="[ENC]directv.com_0" site_id="330|##|330||0___10001%7CAmerica%2FNew_York" xmltv_id="BHER / BET Her">BHER / BET Her</channel>
+  <channel site="[ENC]directv.com_0" site_id="331|##|2600||158___10001%7CAmerica%2FNew_York" xmltv_id="MTVWHD / MTV West HD">MTVWHD / MTV West HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="331|##|8218||11___10001%7CAmerica%2FNew_York" xmltv_id="MTVHD / MTV HD">MTVHD / MTV HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="331|##|331||11___10001%7CAmerica%2FNew_York" xmltv_id="MTV / MTV">MTV / MTV</channel>
+  <channel site="[ENC]directv.com_0" site_id="332|##|2455||625___10001%7CAmerica%2FNew_York" xmltv_id="MTV2HD / MTV2 HD">MTV2HD / MTV2 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="332|##|333||625___10001%7CAmerica%2FNew_York" xmltv_id="MTV2 / MTV2">MTV2 / MTV2</channel>
+  <channel site="[ENC]directv.com_0" site_id="333|##|6214||256___10001%7CAmerica%2FNew_York" xmltv_id="IFCHD / IFC HD">IFCHD / IFC HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="333|##|550||256___10001%7CAmerica%2FNew_York" xmltv_id="IFC / IFC">IFC / IFC</channel>
+  <channel site="[ENC]directv.com_0" site_id="335|##|8279||402___10001%7CAmerica%2FNew_York" xmltv_id="VH1HD / VH1 HD">VH1HD / VH1 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="335|##|335||401___10001%7CAmerica%2FNew_York" xmltv_id="VH1 / VH1">VH1 / VH1</channel>
+  <channel site="[ENC]directv.com_0" site_id="336|##|337||240___10001%7CAmerica%2FNew_York" xmltv_id="MTVC / MTV Classic">MTVC / MTV Classic</channel>
+  <channel site="[ENC]directv.com_0" site_id="337|##|102||0___10001%7CAmerica%2FNew_York" xmltv_id="SEEK / SEEK HD">SEEK / SEEK HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="338|##|3511||440___10001%7CAmerica%2FNew_York" xmltv_id="UPTV / UPTV">UPTV / UPTV</channel>
+  <channel site="[ENC]directv.com_0" site_id="339|##|365||824___10001%7CAmerica%2FNew_York" xmltv_id="fuseHD / Fuse HD">fuseHD / Fuse HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="340|##|4209||339___10001%7CAmerica%2FNew_York" xmltv_id="AXSTV / AXS TV HD">AXSTV / AXS TV HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="341|##|4469||209___10001%7CAmerica%2FNew_York" xmltv_id="CLEOTV / Cleo TV">CLEOTV / Cleo TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="342|##|6537||203___10001%7CAmerica%2FNew_York" xmltv_id="BNCTV / Black News Channel">BNCTV / Black News Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="343|##|499||187___10001%7CAmerica%2FNew_York" xmltv_id="i24NEWS / i24 News">i24NEWS / i24 News</channel>
+  <channel site="[ENC]directv.com_0" site_id="344|##|344||0___10001%7CAmerica%2FNew_York" xmltv_id="SBNHD / Son Life Broadcasting HD">SBNHD / Son Life Broadcasting HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="345|##|551||570___10001%7CAmerica%2FNew_York" xmltv_id="RFDHD / RFD HD TV">RFDHD / RFD HD TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="346|##|2063||16___10001%7CAmerica%2FNew_York" xmltv_id="BBCWHD / BBC World News HD">BBCWHD / BBC World News HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="348|##|3776||945___10001%7CAmerica%2FNew_York" xmltv_id="FSTV / Free Speech TV">FSTV / Free Speech TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="349|##|808||86___10001%7CAmerica%2FNew_York" xmltv_id="NEWSMXH / Newsmax TV HD">NEWSMXH / Newsmax TV HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="349|##|2282||503___10001%7CAmerica%2FNew_York" xmltv_id="NEWSMX / Newsmax TV">NEWSMX / Newsmax TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="350|##|350||56___10001%7CAmerica%2FNew_York" xmltv_id="CSP1 / CSPAN">CSP1 / CSPAN</channel>
+  <channel site="[ENC]directv.com_0" site_id="351|##|351||57___10001%7CAmerica%2FNew_York" xmltv_id="CSP2 / CSPAN 2">CSP2 / CSPAN 2</channel>
+  <channel site="[ENC]directv.com_0" site_id="352|##|223||571___10001%7CAmerica%2FNew_York" xmltv_id="NASA / NASA TV">NASA / NASA TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="353|##|8609||438___10001%7CAmerica%2FNew_York" xmltv_id="BTVHD / Bloomberg TV HD">BTVHD / Bloomberg TV HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="353|##|353||274___10001%7CAmerica%2FNew_York" xmltv_id="BTV / Bloomberg TV">BTV / Bloomberg TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="354|##|586||128___10001%7CAmerica%2FNew_York" xmltv_id="CHDR / Cheddar News">CHDR / Cheddar News</channel>
+  <channel site="[ENC]directv.com_0" site_id="355|##|8277||46___10001%7CAmerica%2FNew_York" xmltv_id="CNBCHD / CNBC HD">CNBCHD / CNBC HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="355|##|355||46___10001%7CAmerica%2FNew_York" xmltv_id="CNBC / CNBC">CNBC / CNBC</channel>
+  <channel site="[ENC]directv.com_0" site_id="356|##|3526||118___10001%7CAmerica%2FNew_York" xmltv_id="MSNBC / MSNBC HD">MSNBC / MSNBC HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="356|##|356||118___10001%7CAmerica%2FNew_York" xmltv_id="MSNBC / MSNBC">MSNBC / MSNBC</channel>
+  <channel site="[ENC]directv.com_0" site_id="357|##|357||528___10001%7CAmerica%2FNew_York" xmltv_id="CNBW / CNBC World">CNBW / CNBC World</channel>
+  <channel site="[ENC]directv.com_0" site_id="358|##|2601||151___10001%7CAmerica%2FNew_York" xmltv_id="CNNi / CNNi">CNNi / CNNi</channel>
+  <channel site="[ENC]directv.com_0" site_id="359|##|8394||757___10001%7CAmerica%2FNew_York" xmltv_id="FBNHD / Fox Business Network HD">FBNHD / Fox Business Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="359|##|3142||757___10001%7CAmerica%2FNew_York" xmltv_id="FBN / Fox Business Network">FBN / Fox Business Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="360|##|3474||848___10001%7CAmerica%2FNew_York" xmltv_id="FNCHD / FOX News Channel HD">FNCHD / FOX News Channel HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="360|##|360||112___10001%7CAmerica%2FNew_York" xmltv_id="FNC / FOX News Channel">FNC / FOX News Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="361|##|6067||0___10001%7CAmerica%2FNew_York" xmltv_id="ACCUHD / AccuWeather HD">ACCUHD / AccuWeather HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="362|##|8253||755___10001%7CAmerica%2FNew_York" xmltv_id="WEAHD / The Weather Channel HD">WEAHD / The Weather Channel HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="362|##|362||51___10001%7CAmerica%2FNew_York" xmltv_id="WEA / The Weather Channel">WEA / The Weather Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="363|##|3775||243___10001%7CAmerica%2FNew_York" xmltv_id="GEBA / GEB America">GEBA / GEB America</channel>
+  <channel site="[ENC]directv.com_0" site_id="364|##|359||838___10001%7CAmerica%2FNew_York" xmltv_id="INSPHD / INSP HD">INSPHD / INSP HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="364|##|364||838___10001%7CAmerica%2FNew_York" xmltv_id="INSP / INSP">INSP / INSP</channel>
+  <channel site="[ENC]directv.com_0" site_id="365|##|1579||681___10001%7CAmerica%2FNew_York" xmltv_id="GTV / God TV">GTV / God TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="366|##|306||0___10001%7CAmerica%2FNew_York" xmltv_id="VICTORY / VICTORY">VICTORY / VICTORY</channel>
+  <channel site="[ENC]directv.com_0" site_id="367|##|321||869___10001%7CAmerica%2FNew_York" xmltv_id="WHT / World Harvest Television">WHT / World Harvest Television</channel>
+  <channel site="[ENC]directv.com_0" site_id="368|##|8479||894___10001%7CAmerica%2FNew_York" xmltv_id="HOPE / Hope Channel">HOPE / Hope Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="369|##|369||582___10001%7CAmerica%2FNew_York" xmltv_id="DSTR / Daystar">DSTR / Daystar</channel>
+  <channel site="[ENC]directv.com_0" site_id="370|##|422||552___10001%7CAmerica%2FNew_York" xmltv_id="EWTN / EWTN">EWTN / EWTN</channel>
+  <channel site="[ENC]directv.com_0" site_id="371|##|371||105___10001%7CAmerica%2FNew_York" xmltv_id="INSPIRE / TBN Inspire">INSPIRE / TBN Inspire</channel>
+  <channel site="[ENC]directv.com_0" site_id="372|##|394||129___10001%7CAmerica%2FNew_York" xmltv_id="TBNHD / Trinity Broadcast Network HD">TBNHD / Trinity Broadcast Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="373|##|373||575___10001%7CAmerica%2FNew_York" xmltv_id="WORD / The WORD Network">WORD / The WORD Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="374|##|374||924___10001%7CAmerica%2FNew_York" xmltv_id="BYU / BYUtv">BYU / BYUtv</channel>
+  <channel site="[ENC]directv.com_0" site_id="375|##|375||573___10001%7CAmerica%2FNew_York" xmltv_id="LINK / LinkTV">LINK / LinkTV</channel>
+  <channel site="[ENC]directv.com_0" site_id="376|##|3144||650___10001%7CAmerica%2FNew_York" xmltv_id="CTN / Christian Television Net">CTN / Christian Television Net</channel>
+  <channel site="[ENC]directv.com_0" site_id="377|##|377||818___10001%7CAmerica%2FNew_York" xmltv_id="TCT / TCT Network">TCT / TCT Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="378|##|378||652___10001%7CAmerica%2FNew_York" xmltv_id="NRB / NRB">NRB / NRB</channel>
+  <channel site="[ENC]directv.com_0" site_id="379|##|6071||255___10001%7CAmerica%2FNew_York" xmltv_id="LFN / Living Faith Network">LFN / Living Faith Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="380|##|401||246___10001%7CAmerica%2FNew_York" xmltv_id="IMPACT / IMPACT TV">IMPACT / IMPACT TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="381|##|4707||248___10001%7CAmerica%2FNew_York" xmltv_id="ASPHD / ASPIRE (HD)">ASPHD / ASPIRE (HD)</channel>
+  <channel site="[ENC]directv.com_0" site_id="382|##|8445||0___10001%7CAmerica%2FNew_York" xmltv_id="COMTVH / Comedy TV HD">COMTVH / Comedy TV HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="383|##|8433||68___10001%7CAmerica%2FNew_York" xmltv_id="JC HD / Justice Central HD">JC HD / Justice Central HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="384|##|8446||44___10001%7CAmerica%2FNew_York" xmltv_id="RVLTHD / Revolt HD">RVLTHD / Revolt HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="386|##|8983||48___10001%7CAmerica%2FNew_York" xmltv_id="FM HD / FM HD">FM HD / FM HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="388|##|366||846___10001%7CAmerica%2FNew_York" xmltv_id="JBS / JBS">JBS / JBS</channel>
+  <channel site="[ENC]directv.com_0" site_id="389|##|384||22___10001%7CAmerica%2FNew_York" xmltv_id="PBS / PBSNET">PBS / PBSNET</channel>
+  <channel site="[ENC]directv.com_0" site_id="449|##|4557||508___10001%7CAmerica%2FNew_York" xmltv_id="SONYCN / Sony Cine">SONYCN / Sony Cine</channel>
+  <channel site="[ENC]directv.com_0" site_id="501|##|1967||830___10001%7CAmerica%2FNew_York" xmltv_id="HBOeHD / HBO HD East">HBOeHD / HBO HD East</channel>
+  <channel site="[ENC]directv.com_0" site_id="501|##|501||17___10001%7CAmerica%2FNew_York" xmltv_id="HBOe / HBO East">HBOe / HBO East</channel>
+  <channel site="[ENC]directv.com_0" site_id="502|##|3778||524___10001%7CAmerica%2FNew_York" xmltv_id="HB2eHD / HBO2 HD East">HB2eHD / HBO2 HD East</channel>
+  <channel site="[ENC]directv.com_0" site_id="502|##|502||524___10001%7CAmerica%2FNew_York" xmltv_id="HB2e / HBO 2 East">HB2e / HBO 2 East</channel>
+  <channel site="[ENC]directv.com_0" site_id="503|##|1786||284___10001%7CAmerica%2FNew_York" xmltv_id="HBSeHD / HBO Signature HD East">HBSeHD / HBO Signature HD East</channel>
+  <channel site="[ENC]directv.com_0" site_id="503|##|503||190___10001%7CAmerica%2FNew_York" xmltv_id="HBOS / HBO Signature">HBOS / HBO Signature</channel>
+  <channel site="[ENC]directv.com_0" site_id="504|##|8219||732___10001%7CAmerica%2FNew_York" xmltv_id="HBOwHD / HBO West HD">HBOwHD / HBO West HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="504|##|504||17___10001%7CAmerica%2FNew_York" xmltv_id="HBOw / HBO West">HBOw / HBO West</channel>
+  <channel site="[ENC]directv.com_0" site_id="505|##|3336||950___10001%7CAmerica%2FNew_York" xmltv_id="HB2wHD / HBO2 West HD">HB2wHD / HBO2 West HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="505|##|505||524___10001%7CAmerica%2FNew_York" xmltv_id="HB2w / HBO 2 West">HB2w / HBO 2 West</channel>
+  <channel site="[ENC]directv.com_0" site_id="506|##|4064||290___10001%7CAmerica%2FNew_York" xmltv_id="HBOCHD / HBO Comedy HD">HBOCHD / HBO Comedy HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="507|##|8973||283___10001%7CAmerica%2FNew_York" xmltv_id="HBOFeHD / HBO Family East HD">HBOFeHD / HBO Family East HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="507|##|507||137___10001%7CAmerica%2FNew_York" xmltv_id="HBFe / HBO Family East">HBFe / HBO Family East</channel>
+  <channel site="[ENC]directv.com_0" site_id="508|##|508||137___10001%7CAmerica%2FNew_York" xmltv_id="HBFw / HBO Family West">HBFw / HBO Family West</channel>
+  <channel site="[ENC]directv.com_0" site_id="509|##|3779||948___10001%7CAmerica%2FNew_York" xmltv_id="HBOZHD / HBO Zone HD">HBOZHD / HBO Zone HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="511|##|4065||291___10001%7CAmerica%2FNew_York" xmltv_id="HBOLHD / HBO Latino HD">HBOLHD / HBO Latino HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="511|##|3542||208___10001%7CAmerica%2FNew_York" xmltv_id="HBOL / HBO Latino">HBOL / HBO Latino</channel>
+  <channel site="[ENC]directv.com_0" site_id="512|##|3655||0___10001%7CAmerica%2FNew_York" xmltv_id="EXPDC / Explore the DC Universe">EXPDC / Explore the DC Universe</channel>
+  <channel site="[ENC]directv.com_0" site_id="515|##|8214||0___10001%7CAmerica%2FNew_York" xmltv_id="MAXeHD / Cinemax East HD">MAXeHD / Cinemax East HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="515|##|512||391___10001%7CAmerica%2FNew_York" xmltv_id="MAXe / Cinemax">MAXe / Cinemax</channel>
+  <channel site="[ENC]directv.com_0" site_id="516|##|8267||726___10001%7CAmerica%2FNew_York" xmltv_id="MAXwHD / Cinemax West HD">MAXwHD / Cinemax West HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="516|##|514||833___10001%7CAmerica%2FNew_York" xmltv_id="MAXw / Cinemax West">MAXw / Cinemax West</channel>
+  <channel site="[ENC]directv.com_0" site_id="517|##|4066||292___10001%7CAmerica%2FNew_York" xmltv_id="MMAXHD / MoreMAX HD">MMAXHD / MoreMAX HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="517|##|513||193___10001%7CAmerica%2FNew_York" xmltv_id="MMAX / MoreMAX">MMAX / MoreMAX</channel>
+  <channel site="[ENC]directv.com_0" site_id="519|##|4067||293___10001%7CAmerica%2FNew_York" xmltv_id="AMAXHD / ActionMax HD">AMAXHD / ActionMax HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="520|##|3324||309___10001%7CAmerica%2FNew_York" xmltv_id="5MAXHD / 5StarMAX HD">5MAXHD / 5StarMAX HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="521|##|3339||442___10001%7CAmerica%2FNew_York" xmltv_id="MovMAX / MovieMAX">MovMAX / MovieMAX</channel>
+  <channel site="[ENC]directv.com_0" site_id="522|##|4068||294___10001%7CAmerica%2FNew_York" xmltv_id="TMAXHD / ThrillerMAX HD">TMAXHD / ThrillerMAX HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="523|##|3340||3___10001%7CAmerica%2FNew_York" xmltv_id="MAXLHD / Cinemax Latino HD">MAXLHD / Cinemax Latino HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="525|##|8229||747___10001%7CAmerica%2FNew_York" xmltv_id="STRZHD / STARZ East HD">STRZHD / STARZ East HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="525|##|520||817___10001%7CAmerica%2FNew_York" xmltv_id="STRZ / STARZ East">STRZ / STARZ East</channel>
+  <channel site="[ENC]directv.com_0" site_id="526|##|8228||748___10001%7CAmerica%2FNew_York" xmltv_id="STZwHD / STARZ West HD">STZwHD / STARZ West HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="526|##|521||817___10001%7CAmerica%2FNew_York" xmltv_id="STZw / STARZ West">STZw / STARZ West</channel>
+  <channel site="[ENC]directv.com_0" site_id="527|##|8257||749___10001%7CAmerica%2FNew_York" xmltv_id="STZKHD / STARZ Kids &amp; Family HD">STZKHD / STARZ Kids &amp; Family HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="528|##|8247||745___10001%7CAmerica%2FNew_York" xmltv_id="STZCHD / STARZ Comedy HD">STZCHD / STARZ Comedy HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="529|##|8224||746___10001%7CAmerica%2FNew_York" xmltv_id="STZEHD / STARZ Edge HD">STZEHD / STARZ Edge HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="529|##|522||815___10001%7CAmerica%2FNew_York" xmltv_id="STZE / STARZ Edge">STZE / STARZ Edge</channel>
+  <channel site="[ENC]directv.com_0" site_id="530|##|3786||952___10001%7CAmerica%2FNew_York" xmltv_id="STZBHD / STARZ in Black HD">STZBHD / STARZ in Black HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="530|##|523||816___10001%7CAmerica%2FNew_York" xmltv_id="STZB / STARZ in Black">STZB / STARZ in Black</channel>
+  <channel site="[ENC]directv.com_0" site_id="531|##|3784||951___10001%7CAmerica%2FNew_York" xmltv_id="STZCIHD / STARZ Cinema HD">STZCIHD / STARZ Cinema HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="535|##|3777||953___10001%7CAmerica%2FNew_York" xmltv_id="SENCHD / STARZ Encore HD">SENCHD / STARZ Encore HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="535|##|526||36___10001%7CAmerica%2FNew_York" xmltv_id="SENC / STARZ Encore">SENC / STARZ Encore</channel>
+  <channel site="[ENC]directv.com_0" site_id="536|##|527||36___10001%7CAmerica%2FNew_York" xmltv_id="SENw / STARZ Encore West">SENw / STARZ Encore West</channel>
+  <channel site="[ENC]directv.com_0" site_id="537|##|528||470___10001%7CAmerica%2FNew_York" xmltv_id="SECL / STARZ Encore Classic">SECL / STARZ Encore Classic</channel>
+  <channel site="[ENC]directv.com_0" site_id="538|##|529||63___10001%7CAmerica%2FNew_York" xmltv_id="SEWS / STARZ Encore Westerns">SEWS / STARZ Encore Westerns</channel>
+  <channel site="[ENC]directv.com_0" site_id="539|##|530||305___10001%7CAmerica%2FNew_York" xmltv_id="SESU / STARZ Encore Suspense">SESU / STARZ Encore Suspense</channel>
+  <channel site="[ENC]directv.com_0" site_id="540|##|531||469___10001%7CAmerica%2FNew_York" xmltv_id="SEBK / STARZ Encore Black">SEBK / STARZ Encore Black</channel>
+  <channel site="[ENC]directv.com_0" site_id="541|##|6219||414___10001%7CAmerica%2FNew_York" xmltv_id="SEACHD / STARZ Encore Action HD">SEACHD / STARZ Encore Action HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="541|##|532||64___10001%7CAmerica%2FNew_York" xmltv_id="SEAC / STARZ Encore Action">SEAC / STARZ Encore Action</channel>
+  <channel site="[ENC]directv.com_0" site_id="542|##|533||304___10001%7CAmerica%2FNew_York" xmltv_id="SEFM / STARZ Encore Family">SEFM / STARZ Encore Family</channel>
+  <channel site="[ENC]directv.com_0" site_id="545|##|1968||564___10001%7CAmerica%2FNew_York" xmltv_id="SHOeHD / Showtime HD East">SHOeHD / Showtime HD East</channel>
+  <channel site="[ENC]directv.com_0" site_id="545|##|537||23___10001%7CAmerica%2FNew_York" xmltv_id="SHOe / Showtime (E)">SHOe / Showtime (E)</channel>
+  <channel site="[ENC]directv.com_0" site_id="546|##|8234||742___10001%7CAmerica%2FNew_York" xmltv_id="SHOwHD / Showtime HD West">SHOwHD / Showtime HD West</channel>
+  <channel site="[ENC]directv.com_0" site_id="546|##|540||97___10001%7CAmerica%2FNew_York" xmltv_id="SHOw / Showtime (W)">SHOw / Showtime (W)</channel>
+  <channel site="[ENC]directv.com_0" site_id="547|##|8252||143___10001%7CAmerica%2FNew_York" xmltv_id="SHO2HD / SHOWTIME 2 HD">SHO2HD / SHOWTIME 2 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="547|##|538||96___10001%7CAmerica%2FNew_York" xmltv_id="SHO2 / SHOWTIME 2">SHO2 / SHOWTIME 2</channel>
+  <channel site="[ENC]directv.com_0" site_id="548|##|3781||198___10001%7CAmerica%2FNew_York" xmltv_id="SHOBETH / SHOxBET HD">SHOBETH / SHOxBET HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="548|##|4401||197___10001%7CAmerica%2FNew_York" xmltv_id="SHOBET / SHOxBET">SHOBET / SHOxBET</channel>
+  <channel site="[ENC]directv.com_0" site_id="549|##|4263||141___10001%7CAmerica%2FNew_York" xmltv_id="EXTRHD / Showtime Extreme HD">EXTRHD / Showtime Extreme HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="549|##|542||141___10001%7CAmerica%2FNew_York" xmltv_id="EXTR / Showtime Extreme">EXTR / Showtime Extreme</channel>
+  <channel site="[ENC]directv.com_0" site_id="550|##|4224||839___10001%7CAmerica%2FNew_York" xmltv_id="SHOCSEHD / Showtime Showcase HD">SHOCSEHD / Showtime Showcase HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="551|##|3782||930___10001%7CAmerica%2FNew_York" xmltv_id="SHNXHD / Showtime Next HD">SHNXHD / Showtime Next HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="552|##|3705||241___10001%7CAmerica%2FNew_York" xmltv_id="SHOFAM / Showtime FamilyZone">SHOFAM / Showtime FamilyZone</channel>
+  <channel site="[ENC]directv.com_0" site_id="553|##|8239||751___10001%7CAmerica%2FNew_York" xmltv_id="TMCeHD / The Movie Channel East HD">TMCeHD / The Movie Channel East HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="553|##|544||60___10001%7CAmerica%2FNew_York" xmltv_id="TMCe / The Movie Channel East">TMCe / The Movie Channel East</channel>
+  <channel site="[ENC]directv.com_0" site_id="554|##|545||60___10001%7CAmerica%2FNew_York" xmltv_id="TMCw / The Movie Channel West">TMCw / The Movie Channel West</channel>
+  <channel site="[ENC]directv.com_0" site_id="555|##|3785||949___10001%7CAmerica%2FNew_York" xmltv_id="TMCXHD / The Movie Channel Xtra HD">TMCXHD / The Movie Channel Xtra HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="556|##|547||55___10001%7CAmerica%2FNew_York" xmltv_id="FLIX / Flix">FLIX / Flix</channel>
+  <channel site="[ENC]directv.com_0" site_id="557|##|6709||223___10001%7CAmerica%2FNew_York" xmltv_id="AMCPLS / AMC+ HD">AMCPLS / AMC+ HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="558|##|534||132___10001%7CAmerica%2FNew_York" xmltv_id="EPIX / EPIX HD">EPIX / EPIX HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="559|##|535||155___10001%7CAmerica%2FNew_York" xmltv_id="EPIX2 / EPIX 2 HD">EPIX2 / EPIX 2 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="560|##|536||156___10001%7CAmerica%2FNew_York" xmltv_id="EPIXHT / EPIX Hits HD">EPIXHT / EPIX Hits HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="562|##|6183||451___10001%7CAmerica%2FNew_York" xmltv_id="DOGTV / Dog TV">DOGTV / Dog TV</channel>
+  <channel site="[ENC]directv.com_0" site_id="563|##|4308||200___10001%7CAmerica%2FNew_York" xmltv_id="YUM / So Yummy">YUM / So Yummy</channel>
+  <channel site="[ENC]directv.com_0" site_id="564|##|3787||130___10001%7CAmerica%2FNew_York" xmltv_id="HLDRM / Hallmark Drama HD">HLDRM / Hallmark Drama HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="565|##|3527||502___10001%7CAmerica%2FNew_York" xmltv_id="HMMHD / Hallmark Movies &amp; Mysteries HD">HMMHD / Hallmark Movies &amp; Mysteries HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="566|##|4210||565___10001%7CAmerica%2FNew_York" xmltv_id="HDNM / HDNET MOVIES">HDNM / HDNET MOVIES</channel>
+  <channel site="[ENC]directv.com_0" site_id="567|##|8393||773___10001%7CAmerica%2FNew_York" xmltv_id="MGMHD / MGM HD">MGMHD / MGM HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="568|##|2184||261___10001%7CAmerica%2FNew_York" xmltv_id="SONYHD / Sony Movies">SONYHD / Sony Movies</channel>
+  <channel site="[ENC]directv.com_0" site_id="570|##|8391||743___10001%7CAmerica%2FNew_York" xmltv_id="SMTHHD / Smithsonian Channel HD">SMTHHD / Smithsonian Channel HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="571|##|4257||849___10001%7CAmerica%2FNew_York" xmltv_id="CIHD / Crime &amp; Investigation HD">CIHD / Crime &amp; Investigation HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="572|##|8269||45___10001%7CAmerica%2FNew_York" xmltv_id="MTVLV / MTV Live HD">MTVLV / MTV Live HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="573|##|3708||289___10001%7CAmerica%2FNew_York" xmltv_id="SHRTTV / Shorts TV HD">SHRTTV / Shorts TV HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="603|##|630||111___10001%7CAmerica%2FNew_York" xmltv_id="CWBY / Cowboy Channel">CWBY / Cowboy Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="606|##|603||710___10001%7CAmerica%2FNew_York" xmltv_id="OUTHD / Outdoor Channel HD">OUTHD / Outdoor Channel HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="606|##|606||710___10001%7CAmerica%2FNew_York" xmltv_id="OUT / Outdoor Channel">OUT / Outdoor Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="604|##|2612||864___10001%7CAmerica%2FNew_York" xmltv_id="PRST / Pursuit Channel">PRST / Pursuit Channel</channel>
+  <channel site="[ENC]directv.com_0" site_id="610|##|5610||767___10001%7CAmerica%2FNew_York" xmltv_id="BTNHD / BTN HD">BTNHD / BTN HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="610|##|2610||767___10001%7CAmerica%2FNew_York" xmltv_id="BTN / BTN">BTN / BTN</channel>
+  <channel site="[ENC]directv.com_0" site_id="611|##|633||501___10001%7CAmerica%2FNew_York" xmltv_id="SECHDa / SEC Network Alternate HD">SECHDa / SEC Network Alternate HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="611|##|3669||501___10001%7CAmerica%2FNew_York" xmltv_id="SECHD / SEC Network HD">SECHD / SEC Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="611|##|632||501___10001%7CAmerica%2FNew_York" xmltv_id="SEC / SEC Network Alternate">SEC / SEC Network Alternate</channel>
+  <channel site="[ENC]directv.com_0" site_id="611|##|4003||501___10001%7CAmerica%2FNew_York" xmltv_id="SEC / SEC Network">SEC / SEC Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="612|##|3911||166___10001%7CAmerica%2FNew_York" xmltv_id="ACCNHD / ACC Network HD">ACCNHD / ACC Network HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="612|##|3910||166___10001%7CAmerica%2FNew_York" xmltv_id="ACCN / ACC Network">ACCN / ACC Network</channel>
+  <channel site="[ENC]directv.com_0" site_id="618|##|5618||446___10001%7CAmerica%2FNew_York" xmltv_id="FS2HD / FOX Sports 2 HD">FS2HD / FOX Sports 2 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="618|##|2618||446___10001%7CAmerica%2FNew_York" xmltv_id="FS2 / FOX Sports 2">FS2 / FOX Sports 2</channel>
+  <channel site="[ENC]directv.com_0" site_id="631|##|5631||780___10001%7CAmerica%2FNew_York" xmltv_id="YESHD / YES HD">YESHD / YES HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="631|##|8264||523___10001%7CAmerica%2FNew_York" xmltv_id="YESaHD / YES HD (Alternate)">YESaHD / YES HD (Alternate)</channel>
+  <channel site="[ENC]directv.com_0" site_id="720|##|5720||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings Mix HD 720">MLBHD / MLB Extra Innings Mix HD 720</channel>
+  <channel site="[ENC]directv.com_0" site_id="721|##|5721||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 721">MLBHD / MLB Extra Innings HD 721</channel>
+  <channel site="[ENC]directv.com_0" site_id="721|##|721||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 721">MLB / MLB Extra Innings 721</channel>
+  <channel site="[ENC]directv.com_0" site_id="722|##|5722||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 722">MLBHD / MLB Extra Innings HD 722</channel>
+  <channel site="[ENC]directv.com_0" site_id="722|##|722||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 722">MLB / MLB Extra Innings 722</channel>
+  <channel site="[ENC]directv.com_0" site_id="723|##|5723||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 723">MLBHD / MLB Extra Innings HD 723</channel>
+  <channel site="[ENC]directv.com_0" site_id="723|##|723||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 723">MLB / MLB Extra Innings 723</channel>
+  <channel site="[ENC]directv.com_0" site_id="724|##|5724||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 724">MLBHD / MLB Extra Innings HD 724</channel>
+  <channel site="[ENC]directv.com_0" site_id="724|##|724||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 724">MLB / MLB Extra Innings 724</channel>
+  <channel site="[ENC]directv.com_0" site_id="725|##|5725||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 725">MLBHD / MLB Extra Innings HD 725</channel>
+  <channel site="[ENC]directv.com_0" site_id="725|##|725||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 725">MLB / MLB Extra Innings 725</channel>
+  <channel site="[ENC]directv.com_0" site_id="726|##|5726||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 726">MLBHD / MLB Extra Innings HD 726</channel>
+  <channel site="[ENC]directv.com_0" site_id="726|##|726||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 726">MLB / MLB Extra Innings 726</channel>
+  <channel site="[ENC]directv.com_0" site_id="727|##|5727||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 727">MLBHD / MLB Extra Innings HD 727</channel>
+  <channel site="[ENC]directv.com_0" site_id="727|##|727||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 727">MLB / MLB Extra Innings 727</channel>
+  <channel site="[ENC]directv.com_0" site_id="728|##|5728||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 728">MLBHD / MLB Extra Innings HD 728</channel>
+  <channel site="[ENC]directv.com_0" site_id="728|##|728||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 728">MLB / MLB Extra Innings 728</channel>
+  <channel site="[ENC]directv.com_0" site_id="729|##|5729||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 729">MLBHD / MLB Extra Innings HD 729</channel>
+  <channel site="[ENC]directv.com_0" site_id="729|##|729||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 729">MLB / MLB Extra Innings 729</channel>
+  <channel site="[ENC]directv.com_0" site_id="730|##|5730||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 730">MLBHD / MLB Extra Innings HD 730</channel>
+  <channel site="[ENC]directv.com_0" site_id="730|##|730||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 730">MLB / MLB Extra Innings 730</channel>
+  <channel site="[ENC]directv.com_0" site_id="731|##|5731||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 731">MLBHD / MLB Extra Innings HD 731</channel>
+  <channel site="[ENC]directv.com_0" site_id="731|##|731||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 731">MLB / MLB Extra Innings 731</channel>
+  <channel site="[ENC]directv.com_0" site_id="732|##|5732||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 732">MLBHD / MLB Extra Innings HD 732</channel>
+  <channel site="[ENC]directv.com_0" site_id="732|##|732||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 732">MLB / MLB Extra Innings 732</channel>
+  <channel site="[ENC]directv.com_0" site_id="733|##|5733||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 733">MLBHD / MLB Extra Innings HD 733</channel>
+  <channel site="[ENC]directv.com_0" site_id="733|##|733||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 733">MLB / MLB Extra Innings 733</channel>
+  <channel site="[ENC]directv.com_0" site_id="734|##|5734||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 734">MLBHD / MLB Extra Innings HD 734</channel>
+  <channel site="[ENC]directv.com_0" site_id="734|##|734||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 734">MLB / MLB Extra Innings 734</channel>
+  <channel site="[ENC]directv.com_0" site_id="735|##|5735||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 735">MLBHD / MLB Extra Innings HD 735</channel>
+  <channel site="[ENC]directv.com_0" site_id="735|##|735||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 735">MLB / MLB Extra Innings 735</channel>
+  <channel site="[ENC]directv.com_0" site_id="736|##|5736||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 736">MLBHD / MLB Extra Innings HD 736</channel>
+  <channel site="[ENC]directv.com_0" site_id="736|##|736||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 736">MLB / MLB Extra Innings 736</channel>
+  <channel site="[ENC]directv.com_0" site_id="737|##|5737||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 737">MLBHD / MLB Extra Innings HD 737</channel>
+  <channel site="[ENC]directv.com_0" site_id="737|##|737||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 737">MLB / MLB Extra Innings 737</channel>
+  <channel site="[ENC]directv.com_0" site_id="738|##|5738||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 738">MLBHD / MLB Extra Innings HD 738</channel>
+  <channel site="[ENC]directv.com_0" site_id="738|##|738||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 738">MLB / MLB Extra Innings 738</channel>
+  <channel site="[ENC]directv.com_0" site_id="739|##|5739||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 739">MLBHD / MLB Extra Innings HD 739</channel>
+  <channel site="[ENC]directv.com_0" site_id="739|##|739||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 739">MLB / MLB Extra Innings 739</channel>
+  <channel site="[ENC]directv.com_0" site_id="740|##|5740||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 740">MLBHD / MLB Extra Innings HD 740</channel>
+  <channel site="[ENC]directv.com_0" site_id="740|##|740||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 740">MLB / MLB Extra Innings 740</channel>
+  <channel site="[ENC]directv.com_0" site_id="741|##|5741||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 741">MLBHD / MLB Extra Innings HD 741</channel>
+  <channel site="[ENC]directv.com_0" site_id="741|##|741||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 741">MLB / MLB Extra Innings 741</channel>
+  <channel site="[ENC]directv.com_0" site_id="742|##|5742||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 742">MLBHD / MLB Extra Innings HD 742</channel>
+  <channel site="[ENC]directv.com_0" site_id="742|##|742||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 742">MLB / MLB Extra Innings 742</channel>
+  <channel site="[ENC]directv.com_0" site_id="743|##|5743||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 743">MLBHD / MLB Extra Innings HD 743</channel>
+  <channel site="[ENC]directv.com_0" site_id="743|##|743||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 743">MLB / MLB Extra Innings 743</channel>
+  <channel site="[ENC]directv.com_0" site_id="744|##|5744||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 744">MLBHD / MLB Extra Innings HD 744</channel>
+  <channel site="[ENC]directv.com_0" site_id="744|##|744||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 744">MLB / MLB Extra Innings 744</channel>
+  <channel site="[ENC]directv.com_0" site_id="745|##|5745||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 745">MLBHD / MLB Extra Innings HD 745</channel>
+  <channel site="[ENC]directv.com_0" site_id="745|##|745||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 745">MLB / MLB Extra Innings 745</channel>
+  <channel site="[ENC]directv.com_0" site_id="746|##|5746||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 746">MLBHD / MLB Extra Innings HD 746</channel>
+  <channel site="[ENC]directv.com_0" site_id="746|##|746||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 746">MLB / MLB Extra Innings 746</channel>
+  <channel site="[ENC]directv.com_0" site_id="747|##|5747||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 747">MLBHD / MLB Extra Innings HD 747</channel>
+  <channel site="[ENC]directv.com_0" site_id="747|##|747||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 747">MLB / MLB Extra Innings 747</channel>
+  <channel site="[ENC]directv.com_0" site_id="748|##|5748||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 748">MLBHD / MLB Extra Innings HD 748</channel>
+  <channel site="[ENC]directv.com_0" site_id="748|##|748||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 748">MLB / MLB Extra Innings 748</channel>
+  <channel site="[ENC]directv.com_0" site_id="749|##|5749||632___10001%7CAmerica%2FNew_York" xmltv_id="MLBHD / MLB Extra Innings HD 749">MLBHD / MLB Extra Innings HD 749</channel>
+  <channel site="[ENC]directv.com_0" site_id="749|##|749||632___10001%7CAmerica%2FNew_York" xmltv_id="MLB / MLB Extra Innings 749">MLB / MLB Extra Innings 749</channel>
+  <channel site="[ENC]directv.com_0" site_id="750|##|5750||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 750 HD">NBAHD / NBA League Pass 750 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="750|##|750||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 750">NBA / NBA League Pass 750</channel>
+  <channel site="[ENC]directv.com_0" site_id="751|##|5751||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 751 HD">NBAHD / NBA League Pass 751 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="751|##|751||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 751">NBA / NBA League Pass 751</channel>
+  <channel site="[ENC]directv.com_0" site_id="752|##|5752||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 752 HD">NBAHD / NBA League Pass 752 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="752|##|752||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 752">NBA / NBA League Pass 752</channel>
+  <channel site="[ENC]directv.com_0" site_id="753|##|5753||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 753 HD">NBAHD / NBA League Pass 753 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="753|##|753||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 753">NBA / NBA League Pass 753</channel>
+  <channel site="[ENC]directv.com_0" site_id="754|##|5754||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 754 HD">NBAHD / NBA League Pass 754 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="755|##|5755||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 755 HD">NBAHD / NBA League Pass 755 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="755|##|755||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 755">NBA / NBA League Pass 755</channel>
+  <channel site="[ENC]directv.com_0" site_id="756|##|5756||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 756 HD">NBAHD / NBA League Pass 756 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="756|##|756||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 756">NBA / NBA League Pass 756</channel>
+  <channel site="[ENC]directv.com_0" site_id="757|##|5757||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 757 HD">NBAHD / NBA League Pass 757 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="758|##|5758||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 758 HD">NBAHD / NBA League Pass 758 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="759|##|5759||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 759 HD">NBAHD / NBA League Pass 759 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="759|##|759||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 759">NBA / NBA League Pass 759</channel>
+  <channel site="[ENC]directv.com_0" site_id="760|##|5760||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 760 HD">NBAHD / NBA League Pass 760 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="760|##|760||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 760">NBA / NBA League Pass 760</channel>
+  <channel site="[ENC]directv.com_0" site_id="761|##|5761||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 761 HD">NBAHD / NBA League Pass 761 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="761|##|761||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 761">NBA / NBA League Pass 761</channel>
+  <channel site="[ENC]directv.com_0" site_id="762|##|5762||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 762 HD">NBAHD / NBA League Pass 762 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="762|##|762||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 762">NBA / NBA League Pass 762</channel>
+  <channel site="[ENC]directv.com_0" site_id="763|##|5763||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 763 HD">NBAHD / NBA League Pass 763 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="763|##|763||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 763">NBA / NBA League Pass 763</channel>
+  <channel site="[ENC]directv.com_0" site_id="764|##|5764||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 764 HD">NBAHD / NBA League Pass 764 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="764|##|764||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 764">NBA / NBA League Pass 764</channel>
+  <channel site="[ENC]directv.com_0" site_id="765|##|5765||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 765 HD">NBAHD / NBA League Pass 765 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="765|##|765||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 765">NBA / NBA League Pass 765</channel>
+  <channel site="[ENC]directv.com_0" site_id="766|##|5766||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 766 HD">NBAHD / NBA League Pass 766 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="766|##|766||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 766">NBA / NBA League Pass 766</channel>
+  <channel site="[ENC]directv.com_0" site_id="767|##|5767||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 767 HD">NBAHD / NBA League Pass 767 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="767|##|767||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 767">NBA / NBA League Pass 767</channel>
+  <channel site="[ENC]directv.com_0" site_id="768|##|5768||683___10001%7CAmerica%2FNew_York" xmltv_id="NBAHD / NBA League Pass 768 HD">NBAHD / NBA League Pass 768 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="768|##|768||683___10001%7CAmerica%2FNew_York" xmltv_id="NBA / NBA League Pass 768">NBA / NBA League Pass 768</channel>
+  <channel site="[ENC]directv.com_0" site_id="791|##|791||544___10001%7CAmerica%2FNew_York" xmltv_id="ECEHD / ESPN College Extra 791 HD">ECEHD / ESPN College Extra 791 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="792|##|792||544___10001%7CAmerica%2FNew_York" xmltv_id="ECEHD / ESPN College Extra 792 HD">ECEHD / ESPN College Extra 792 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="793|##|793||544___10001%7CAmerica%2FNew_York" xmltv_id="ECEHD / ESPN College Extra 793 HD">ECEHD / ESPN College Extra 793 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="793|##|1793||636___10001%7CAmerica%2FNew_York" xmltv_id="NHL / NHL Center Ice 793">NHL / NHL Center Ice 793</channel>
+  <channel site="[ENC]directv.com_0" site_id="794|##|794||544___10001%7CAmerica%2FNew_York" xmltv_id="ECEHD / ESPN College Extra 794 HD">ECEHD / ESPN College Extra 794 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="795|##|795||544___10001%7CAmerica%2FNew_York" xmltv_id="ECEHD / ESPN College Extra 795 HD">ECEHD / ESPN College Extra 795 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="796|##|796||544___10001%7CAmerica%2FNew_York" xmltv_id="ECEHD / ESPN College Extra 796 HD">ECEHD / ESPN College Extra 796 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="797|##|2797||544___10001%7CAmerica%2FNew_York" xmltv_id="ECEHD / ESPN College Extra 797 HD">ECEHD / ESPN College Extra 797 HD</channel>
+  <channel site="[ENC]directv.com_0" site_id="798|##|6138||544___10001%7CAmerica%2FNew_York" xmltv_id="ECEHD / ESPN College Extra 798 HD">ECEHD / ESPN College Extra 798 HD</channel>
+</configuration>
